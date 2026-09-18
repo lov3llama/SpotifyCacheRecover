@@ -9,7 +9,7 @@ I built this app after my Spotify account was deleted without warning, leaving m
 ### Features
 * **Automated & Manual Search:** Automatically checks default Spotify cache locations or lets you select the cache file manually.
 * **Smart Parsing:** Deduplicates track IDs while preserving play order.
-* **One-Click Export:** Copies formatted Spotify URIs straight to your clipboard for instant pasting.
+* **One-Click Export:** Copies formatted Spotify URLs straight to your clipboard for instant pasting.
 * **Bilingual UI:** Easily switch between English and Russian.
 
 ---
